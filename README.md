@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Netflix Clone**
 
-- 🌱 I’m currently learning **Full Stack Development with React**
+- 🌱 I’m currently learning **Full Stack Development with Angular**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sanskar46](https://github.com/sanskar46)
 
@@ -31,5 +31,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanskar46&show_icons=true&locale=en" alt="sanskar46" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanskar46&" alt="sanskar46" /></p>
-
-
